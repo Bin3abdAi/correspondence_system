@@ -1,0 +1,680 @@
+[
+ {
+  "id": "610954be",
+  "name": "تطوير وتوسعة طريق رئيسي (نموذج)",
+  "district": "حي الصفا",
+  "category": "طرق",
+  "budget": 12000000,
+  "spent": 11400000,
+  "start": "2025-11-22",
+  "planned_end": "2026-05-21",
+  "actual_end": "2026-06-05",
+  "status": "منفّذ",
+  "satisfaction": 82,
+  "complaints_before": 120,
+  "complaints_after": 45,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null
+ },
+ {
+  "id": "60cb4926",
+  "name": "مشروع تصريف مياه الأمطار (نموذج)",
+  "district": "حي النسيم",
+  "category": "تصريف مياه",
+  "budget": 8500000,
+  "spent": 9900000,
+  "start": "2025-12-22",
+  "planned_end": "2026-05-21",
+  "actual_end": "2026-08-09",
+  "status": "منفّذ",
+  "satisfaction": 64,
+  "complaints_before": 210,
+  "complaints_after": 120,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null
+ },
+ {
+  "id": "49d8ab9f",
+  "name": "تأهيل الواجهة البحرية (نموذج)",
+  "district": "حي الشاطئ",
+  "category": "تجميل",
+  "budget": 15000000,
+  "spent": 9000000,
+  "start": "2026-04-01",
+  "planned_end": "2027-02-25",
+  "actual_end": null,
+  "status": "قيد التنفيذ",
+  "satisfaction": null,
+  "complaints_before": 60,
+  "complaints_after": null,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null
+ },
+ {
+  "id": "ab31b207",
+  "name": "سفلتة وإعادة تأهيل شوارع داخلية (نموذج)",
+  "district": "حي البساتين",
+  "category": "طرق",
+  "budget": 6800000,
+  "spent": 6500000,
+  "start": "2026-04-21",
+  "planned_end": "2026-07-30",
+  "actual_end": "2026-08-04",
+  "status": "منفّذ",
+  "satisfaction": 77,
+  "complaints_before": 150,
+  "complaints_after": 70,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null
+ },
+ {
+  "id": "a2bd742a",
+  "name": "مركز نقل نفايات ذكي (نموذج)",
+  "district": "حي أبحر الشمالية",
+  "category": "نظافة",
+  "budget": 4400000,
+  "spent": 2100000,
+  "start": "2026-05-11",
+  "planned_end": "2026-09-08",
+  "actual_end": null,
+  "status": "قيد التنفيذ",
+  "satisfaction": null,
+  "complaints_before": 95,
+  "complaints_after": null,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null
+ },
+ {
+  "id": "bdab3921",
+  "name": "تحسين تقاطع مروري مزدحم (نموذج)",
+  "district": "حي النزهة",
+  "category": "طرق",
+  "budget": 2900000,
+  "spent": 2800000,
+  "start": "2025-11-12",
+  "planned_end": "2026-04-11",
+  "actual_end": "2026-05-11",
+  "status": "منفّذ",
+  "satisfaction": 70,
+  "complaints_before": 80,
+  "complaints_after": 55,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null
+ },
+ {
+  "name": "Beachfront Promenade",
+  "district": "حي الشاطئ",
+  "category": "إدارة الأراضي والأملاك",
+  "status": "مقترح",
+  "description": "Create a beachfront promenade with shops, cafes, and recreational facilities to boost tourism and local business. — The location's proximity to the beach makes it ideal for a project that can enhance tourism and local economy.",
+  "images": [],
+  "concept_images": [],
+  "demo": false,
+  "ai": {
+   "score": 95.0,
+   "summary": "The location's proximity to the beach makes it ideal for a project that can enhance tourism and local economy.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "A vibrant beachfront promenade with shops, cafes, and people enjoying the seaside view.",
+  "id": "53f5cd08"
+ },
+ {
+  "name": "Community Recycling Initiative",
+  "district": "حي البوادي",
+  "category": "إدارة النظافة والبيئة",
+  "status": "مقترح",
+  "description": "Launch a community-wide recycling program with designated recycling bins and educational workshops to promote sustainability. — The high number of transactions suggests a need for improved waste management and community engagement in sustainability efforts.",
+  "images": [],
+  "concept_images": [],
+  "demo": false,
+  "ai": {
+   "score": 80.0,
+   "summary": "The high number of transactions suggests a need for improved waste management and community engagement in sustainability efforts.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "Community members participating in a recycling workshop with colorful recycling bins in a neighborhood park.",
+  "id": "f669b46e"
+ },
+ {
+  "name": "Green Park Development",
+  "district": "حي الصفا",
+  "category": "إدارة النظافة والبيئة",
+  "status": "مقترح",
+  "description": "Develop a large green park with walking trails, picnic areas, and a small lake to enhance the community's recreational spaces and improve environmental quality. — The high number of open transactions indicates a need for improved community spaces and environmental initiatives.",
+  "images": [],
+  "concept_images": [
+   "prj_20261019_132426_6ec5d5.png"
+  ],
+  "demo": false,
+  "ai": {
+   "score": 50.0,
+   "summary": "مشروع تطوير حديقة خضراء في حي الصفا يهدف إلى تحسين المساحات الترفيهية وجودة البيئة. المشروع في مرحلة الاقتراح ولم يتم تحديد ميزانية أو مواعيد زمنية بعد.",
+   "factors": [
+    "المشروع في مرحلة الاقتراح",
+    "عدم توفر ميزانية محددة",
+    "عدم وجود مواعيد بدء أو انتهاء",
+    "أهمية تحسين المساحات الترفيهية",
+    "الحاجة إلى مبادرات بيئية"
+   ],
+   "risks": [
+    "عدم توفر التمويل قد يؤخر التنفيذ",
+    "عدم وضوح الجدول الزمني قد يؤثر على التخطيط",
+    "قد تواجه المشروع تحديات في الحصول على الموافقات اللازمة"
+   ],
+   "at": "2026-10-19"
+  },
+  "image_prompt": "A large green park with walking trails, picnic areas, and a small lake in an urban setting.",
+  "id": "ca1d09ef"
+ },
+ {
+  "id": "c72b7ddb",
+  "name": "حديقة حي ومسار مشاة (نموذج)",
+  "district": "حي الشاطئ",
+  "category": "حدائق",
+  "budget": 5000000,
+  "spent": 5200000,
+  "start": "2026-02-10",
+  "planned_end": "2026-05-21",
+  "actual_end": "2026-05-19",
+  "status": "منفّذ",
+  "satisfaction": 91,
+  "complaints_before": 30,
+  "complaints_after": 25,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": null,
+  "concept_images": [
+   "prj_20261021_000744_07f728.png"
+  ],
+  "estimate": {
+   "phases": [
+    {
+     "name": "التخطيط والتصميم",
+     "weeks": 4.0,
+     "team": 5
+    },
+    {
+     "name": "إعداد الموقع",
+     "weeks": 3.0,
+     "team": 8
+    },
+    {
+     "name": "البنية التحتية",
+     "weeks": 5.0,
+     "team": 10
+    },
+    {
+     "name": "التشجير والتجميل",
+     "weeks": 4.0,
+     "team": 7
+    },
+    {
+     "name": "التشغيل والتسليم",
+     "weeks": 2.0,
+     "team": 4
+    }
+   ],
+   "materials_sar": 750000.0,
+   "assumptions": [
+    "المشروع سيتم تنفيذه في منطقة مستوية",
+    "جميع التصاريح اللازمة متوفرة"
+   ],
+   "risks": [
+    "تأخير في تسليم المواد",
+    "تغيرات غير متوقعة في الطقس"
+   ],
+   "at": "2026-10-21"
+  },
+  "history": [
+   {
+    "v": 1,
+    "at": "2026-10-21 00:08",
+    "by": "admin",
+    "role": "admin",
+    "note": "حساب تقدير التكلفة والجهد",
+    "changes": {
+     "estimate": [
+      "None",
+      "{'phases': [{'name': 'التخطيط والتصميم', 'weeks': 4.0, 'team': 5}, {'name': 'إعد"
+     ]
+    },
+    "snap": {
+     "name": "حديقة حي ومسار مشاة (نموذج)",
+     "district": "حي الشاطئ",
+     "category": "حدائق",
+     "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+     "status": "منفّذ",
+     "budget": 5000000,
+     "spent": 5200000,
+     "start": "2026-02-10",
+     "planned_end": "2026-05-21",
+     "actual_end": "2026-05-19",
+     "satisfaction": 91,
+     "complaints_before": 30,
+     "complaints_after": 25,
+     "approval": null,
+     "review_note": null,
+     "estimate": null
+    }
+   }
+  ]
+ },
+ {
+  "id": "de849d73",
+  "name": "إنارة الشوارع بتقنية LED (نموذج)",
+  "district": "حي الروضة",
+  "category": "إنارة",
+  "budget": 3200000,
+  "spent": 3000000,
+  "start": "2026-01-11",
+  "planned_end": "2026-05-11",
+  "actual_end": "2026-05-16",
+  "status": "منفّذ",
+  "satisfaction": 88,
+  "complaints_before": 90,
+  "complaints_after": 20,
+  "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+  "images": [],
+  "demo": true,
+  "ai": {
+   "score": 92.0,
+   "summary": "مشروع إنارة الشوارع بتقنية LED في حي الروضة حقق نجاحًا كبيرًا. تم تنفيذ المشروع ضمن الميزانية المخططة وبفارق زمني بسيط عن الموعد المحدد.",
+   "factors": [
+    "انخفاض كبير في عدد الشكاوى بعد التنفيذ",
+    "ارتفاع نسبة رضا السكان إلى 88%",
+    "التنفيذ ضمن الميزانية المخططة"
+   ],
+   "risks": [
+    "تأخير بسيط في موعد الانتهاء الفعلي",
+    "ضرورة متابعة الصيانة الدورية للحفاظ على الأداء"
+   ],
+   "at": "2026-10-21"
+  },
+  "estimate": {
+   "phases": [
+    {
+     "name": "التخطيط والتصميم",
+     "weeks": 2.0,
+     "team": 3
+    },
+    {
+     "name": "شراء المواد والمعدات",
+     "weeks": 3.0,
+     "team": 2
+    },
+    {
+     "name": "التركيب والتوصيل",
+     "weeks": 4.0,
+     "team": 5
+    },
+    {
+     "name": "الاختبار والتشغيل",
+     "weeks": 2.0,
+     "team": 3
+    },
+    {
+     "name": "التسليم النهائي",
+     "weeks": 1.0,
+     "team": 2
+    }
+   ],
+   "materials_sar": 500000.0,
+   "assumptions": [
+    "توفر المواد والمعدات في السوق المحلي",
+    "عدم وجود تأخيرات في الموافقات الحكومية"
+   ],
+   "risks": [
+    "تأخير في تسليم المواد",
+    "تغيرات في أسعار المواد"
+   ],
+   "at": "2026-10-21"
+  },
+  "history": [
+   {
+    "v": 1,
+    "at": "2026-10-21 13:44",
+    "by": "admin",
+    "role": "admin",
+    "note": "حساب تقدير التكلفة والجهد",
+    "changes": {
+     "estimate": [
+      "None",
+      "{'phases': [{'name': 'التخطيط والتصميم', 'weeks': 2.0, 'team': 3}, {'name': 'شرا"
+     ]
+    },
+    "snap": {
+     "name": "إنارة الشوارع بتقنية LED (نموذج)",
+     "district": "حي الروضة",
+     "category": "إنارة",
+     "description": "مشروع تجريبي لعرض شكل الصفحة وطريقة حساب نسبة النجاح، ويُستبدل بمشاريع حقيقية.",
+     "status": "منفّذ",
+     "budget": 3200000,
+     "spent": 3000000,
+     "start": "2026-01-11",
+     "planned_end": "2026-05-11",
+     "actual_end": "2026-05-16",
+     "satisfaction": 88,
+     "complaints_before": 90,
+     "complaints_after": 20,
+     "approval": null,
+     "review_note": null,
+     "estimate": null
+    }
+   }
+  ],
+  "concept_images": [
+   "prj_20261021_134600_fa5418.png"
+  ]
+ },
+ {
+  "name": "الطروق و الانارة",
+  "district": "حي الحمدانية",
+  "category": "طرق",
+  "budget": 0.0,
+  "spent": 0.0,
+  "start": "2026-10-20",
+  "planned_end": "2026-10-21",
+  "actual_end": null,
+  "status": "مقترح",
+  "satisfaction": null,
+  "complaints_before": null,
+  "complaints_after": null,
+  "description": "تعديل الطرق والبنيه التحتيه و الاناره",
+  "images": [
+   "prj_20261021_135153_62f641.png",
+   "prj_20261021_135153_f7617e.png",
+   "prj_20261021_135153_1590f9.png"
+  ],
+  "concept_images": [
+   "prj_20261021_135457_235551.png"
+  ],
+  "demo": false,
+  "ai": null,
+  "approval": "معتمد",
+  "created_by": "admin",
+  "history": [
+   {
+    "v": 1,
+    "at": "2026-10-21 13:51",
+    "by": "admin",
+    "role": "admin",
+    "note": "إنشاء المشروع",
+    "changes": {},
+    "snap": null
+   },
+   {
+    "v": 2,
+    "at": "2026-10-21 13:53",
+    "by": "admin",
+    "role": "admin",
+    "note": "حساب تقدير التكلفة والجهد",
+    "changes": {
+     "estimate": [
+      "None",
+      "{'phases': [{'name': 'التخطيط والتصميم', 'weeks': 4.0, 'team': 5}, {'name': 'إعد"
+     ]
+    },
+    "snap": {
+     "name": "الطروق و الانارة",
+     "district": "حي الحمدانية",
+     "category": "طرق",
+     "description": "تعديل الطرق والبنيه التحتيه و الاناره",
+     "status": "مقترح",
+     "budget": 0.0,
+     "spent": 0.0,
+     "start": "2026-10-20",
+     "planned_end": "2026-10-21",
+     "actual_end": null,
+     "satisfaction": null,
+     "complaints_before": null,
+     "complaints_after": null,
+     "approval": "معتمد",
+     "review_note": null,
+     "estimate": null
+    }
+   }
+  ],
+  "id": "4e2eb692",
+  "estimate": {
+   "phases": [
+    {
+     "name": "التخطيط والتصميم",
+     "weeks": 4.0,
+     "team": 5
+    },
+    {
+     "name": "إعداد الموقع",
+     "weeks": 3.0,
+     "team": 8
+    },
+    {
+     "name": "تنفيذ البنية التحتية",
+     "weeks": 6.0,
+     "team": 12
+    },
+    {
+     "name": "تركيب الإنارة",
+     "weeks": 4.0,
+     "team": 6
+    },
+    {
+     "name": "التشطيب والتسليم",
+     "weeks": 2.0,
+     "team": 4
+    }
+   ],
+   "materials_sar": 1500000.0,
+   "assumptions": [
+    "المشروع سيتم تنفيذه في ظروف جوية مناسبة",
+    "جميع التصاريح والموافقات اللازمة متوفرة",
+    "المواد متوفرة في السوق المحلي"
+   ],
+   "risks": [
+    "تأخير في تسليم المواد",
+    "تغيرات غير متوقعة في الطقس"
+   ],
+   "at": "2026-10-21"
+  }
+ },
+ {
+  "name": "إعادة تأهيل الطرق",
+  "district": "حي الصفا",
+  "category": "البنية التحتية",
+  "status": "مقترح",
+  "description": "إعادة تأهيل وتطوير الطرق المتضررة والمتكسّرة في حي الصفا لتحسين السلامة وجودة الحياة. — الطرق المتضررة تؤثر سلباً على السلامة العامة وجودة الحياة، وتطويرها يعزز من صورة المدينة ضمن رؤية 2030.",
+  "approval": "معتمد",
+  "created_by": "admin",
+  "importance": 95.0,
+  "priority": "حرجة",
+  "vision2030": "تحسين جودة الحياة من خلال تطوير البنية التحتية للطرق.",
+  "images": [],
+  "concept_images": [],
+  "demo": false,
+  "ai": {
+   "score": 95.0,
+   "summary": "الطرق المتضررة تؤثر سلباً على السلامة العامة وجودة الحياة، وتطويرها يعزز من صورة المدينة ضمن رؤية 2030.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "A busy urban street under construction with heavy machinery and workers repairing the road.",
+  "id": "dc5d1e78"
+ },
+ {
+  "name": "تطوير الحدائق العامة",
+  "district": "حي الشاطئ",
+  "category": "البيئة والترفيه",
+  "status": "مقترح",
+  "description": "إنشاء وتطوير حدائق عامة ومساحات خضراء في حي الشاطئ لتعزيز جودة الحياة وتوفير مساحات ترفيهية للسكان. — الحدائق العامة توفر مساحات ترفيهية للسكان وتساهم في تحسين البيئة الحضرية.",
+  "approval": "معتمد",
+  "created_by": "admin",
+  "importance": 85.0,
+  "priority": "عالية",
+  "vision2030": "تعزيز جودة الحياة من خلال توفير مساحات ترفيهية خضراء.",
+  "images": [],
+  "concept_images": [],
+  "demo": false,
+  "ai": {
+   "score": 90.0,
+   "summary": "الحدائق العامة توفر مساحات ترفيهية للسكان وتساهم في تحسين البيئة الحضرية.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "A lush green park with families enjoying picnics and children playing.",
+  "id": "cd1404a0"
+ },
+ {
+  "name": "مشروع إدارة النفايات الذكية",
+  "district": "حي النزهة",
+  "category": "الاستدامة البيئية",
+  "status": "مقترح",
+  "description": "تطبيق نظام إدارة نفايات ذكي في حي النزهة لتحسين كفاءة جمع النفايات وتقليل الأثر البيئي. — إدارة النفايات الذكية تساهم في تقليل الأثر البيئي وتحسين النظافة العامة.",
+  "approval": "معتمد",
+  "created_by": "admin",
+  "importance": 80.0,
+  "priority": "عالية",
+  "vision2030": "تحقيق الاستدامة من خلال تحسين إدارة النفايات.",
+  "images": [],
+  "concept_images": [],
+  "demo": false,
+  "ai": {
+   "score": 85.0,
+   "summary": "إدارة النفايات الذكية تساهم في تقليل الأثر البيئي وتحسين النظافة العامة.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "Smart waste bins with sensors in a clean urban environment.",
+  "id": "6335206c"
+ },
+ {
+  "name": "تطوير مراكز الخدمات البلدية",
+  "district": "حي البوادي",
+  "category": "الخدمات العامة",
+  "status": "مقترح",
+  "description": "تطوير مراكز الخدمات البلدية في حي البوادي لتقديم خدمات أسرع وأكثر كفاءة للسكان. — تحسين مراكز الخدمات البلدية يعزز من كفاءة الخدمات المقدمة للسكان ويساهم في تحسين جودة الحياة.",
+  "approval": "معتمد",
+  "created_by": "admin",
+  "importance": 75.0,
+  "priority": "متوسطة",
+  "vision2030": "تحسين جودة الحياة من خلال تقديم خدمات بلدية متطورة وسريعة.",
+  "images": [],
+  "concept_images": [],
+  "demo": false,
+  "ai": {
+   "score": 80.0,
+   "summary": "تحسين مراكز الخدمات البلدية يعزز من كفاءة الخدمات المقدمة للسكان ويساهم في تحسين جودة الحياة.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "A modern municipal service center with digital kiosks and friendly staff.",
+  "id": "f670e8b5"
+ },
+ {
+  "name": "Smart Street Lighting",
+  "district": "حي النزهة",
+  "category": "إدارة صيانة الطرق والإنارة",
+  "status": "مقترح",
+  "description": "Implement smart street lighting systems that adjust brightness based on traffic and pedestrian presence to improve energy efficiency and safety. — With a high number of open transactions, enhancing infrastructure with smart technology can address community needs effectively.",
+  "images": [],
+  "concept_images": [
+   "prj_20261021_193615_df0cec.png"
+  ],
+  "demo": false,
+  "ai": {
+   "score": 90.0,
+   "summary": "With a high number of open transactions, enhancing infrastructure with smart technology can address community needs effectively.",
+   "factors": [],
+   "risks": []
+  },
+  "image_prompt": "A street with modern smart lighting poles that adjust brightness automatically in a suburban neighborhood.",
+  "id": "5b2cf21b",
+  "estimate": {
+   "phases": [
+    {
+     "name": "التخطيط والتصميم",
+     "weeks": 4.0,
+     "team": 5
+    },
+    {
+     "name": "شراء المواد والمعدات",
+     "weeks": 3.0,
+     "team": 3
+    },
+    {
+     "name": "التركيب والتثبيت",
+     "weeks": 6.0,
+     "team": 10
+    },
+    {
+     "name": "الاختبار والتشغيل",
+     "weeks": 2.0,
+     "team": 4
+    },
+    {
+     "name": "التسليم والتدريب",
+     "weeks": 2.0,
+     "team": 3
+    }
+   ],
+   "materials_sar": 750000.0,
+   "assumptions": [
+    "توفر المواد والمعدات في السوق المحلي",
+    "عدم وجود تأخيرات كبيرة بسبب الأحوال الجوية",
+    "التعاون الكامل من الجهات المعنية في الحي"
+   ],
+   "risks": [
+    "تأخير في تسليم المواد",
+    "مشاكل تقنية في النظام الذكي",
+    "اعتراضات من السكان المحليين"
+   ],
+   "at": "2026-10-21"
+  },
+  "history": [
+   {
+    "v": 1,
+    "at": "2026-10-21 19:34",
+    "by": "admin",
+    "role": "admin",
+    "note": "حساب تقدير التكلفة والجهد",
+    "changes": {
+     "estimate": [
+      "None",
+      "{'phases': [{'name': 'التخطيط والتصميم', 'weeks': 4.0, 'team': 5}, {'name': 'شرا"
+     ]
+    },
+    "snap": {
+     "name": "Smart Street Lighting",
+     "district": "حي النزهة",
+     "category": "إدارة صيانة الطرق والإنارة",
+     "description": "Implement smart street lighting systems that adjust brightness based on traffic and pedestrian presence to improve energy efficiency and safety. — With a high number of open transactions, enhancing infrastructure with smart technology can address community needs effectively.",
+     "status": "مقترح",
+     "budget": null,
+     "spent": null,
+     "start": null,
+     "planned_end": null,
+     "actual_end": null,
+     "satisfaction": null,
+     "complaints_before": null,
+     "complaints_after": null,
+     "approval": null,
+     "review_note": null,
+     "estimate": null
+    }
+   }
+  ]
+ }
+]

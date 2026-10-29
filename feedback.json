@@ -1,0 +1,38 @@
+[
+ {
+  "stars": 1,
+  "nps": null,
+  "topics": [],
+  "comment": "",
+  "role": "guest",
+  "by": "",
+  "source": "fab",
+  "ref": "FB-2026-0001",
+  "at": "2026-10-22 11:39",
+  "status": "جديد"
+ },
+ {
+  "stars": 1,
+  "nps": null,
+  "topics": [],
+  "comment": "منصه سيىه",
+  "role": "guest",
+  "by": "",
+  "source": "fab",
+  "ref": "FB-2026-0002",
+  "at": "2026-10-22 11:39",
+  "status": "جديد"
+ },
+ {
+  "stars": 4,
+  "nps": null,
+  "topics": [],
+  "comment": "اضاف وابتكار سعيدان وعليان نوعا ما جديده وتصميم مبتكر واضح ولاكن يفضل التديل عليهم",
+  "role": "admin",
+  "by": "admin",
+  "source": "fab",
+  "ref": "FB-2026-0003",
+  "at": "2026-10-25 08:37",
+  "status": "جديد"
+ }
+]

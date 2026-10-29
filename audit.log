@@ -1,0 +1,510 @@
+2026-10-06 14:36:35,374 | login_failed | user=- role=guest attempted_user='admin'
+2026-10-06 14:45:17,377 | login_failed | user=- role=guest attempted_user='admin'
+2026-10-06 15:01:38,802 | login_ok | user=admin role=admin 
+2026-10-06 15:08:40,289 | logout | user=admin role=admin 
+2026-10-06 15:11:45,081 | login_failed | user=- role=guest attempted_user='admin'
+2026-10-06 15:11:48,897 | login_failed | user=- role=guest attempted_user='admin'
+2026-10-06 15:12:11,986 | login_ok | user=admin role=admin 
+2026-10-06 15:12:32,050 | vision_analysis | user=admin role=admin size=2115400
+2026-10-07 10:15:33,113 | assistant_query | user=- role=guest question='اعطني خطاب بشان المعاملات المتخره ومن هم الجهات الاكثر لاقل انجاز للعمل'
+2026-10-07 10:18:31,783 | login_failed | user=- role=guest attempted_user='EMPLOYEE'
+2026-10-07 10:18:37,558 | login_failed | user=- role=guest attempted_user='EMPLOYEE'
+2026-10-07 10:20:34,676 | login_failed | user=- role=guest attempted_user='EMPLOYEE'
+2026-10-07 10:20:38,728 | login_failed | user=- role=guest attempted_user='EMPLOYEE'
+2026-10-07 10:20:44,891 | login_failed | user=- role=guest attempted_user='EMPLOYEE'
+2026-10-07 10:30:22,481 | login_ok | user=admin role=admin 
+2026-10-07 10:33:49,533 | assistant_query | user=admin role=admin question='اعطني خطاب بشان المعاملات والجهات الاكثر لاقل انجاز للمهام وكاهي الاحياء الاكثر ضرر لعدم انجاز معاملاتهم'
+2026-10-07 10:36:20,558 | vision_analysis | user=admin role=admin size=2338070
+2026-10-07 12:17:02,318 | login_ok | user=admin role=admin 
+2026-10-07 12:17:05,481 | logout | user=admin role=admin 
+2026-10-07 12:17:26,841 | login_ok | user=employee role=employee 
+2026-10-07 12:17:39,920 | logout | user=employee role=employee 
+2026-10-07 12:17:51,399 | login_ok | user=admin role=admin 
+2026-10-07 12:20:26,561 | login_ok | user=admin role=admin 
+2026-10-07 13:01:54,221 | login_ok | user=employee role=employee 
+2026-10-07 13:02:08,474 | logout | user=employee role=employee 
+2026-10-07 13:02:39,927 | login_ok | user=employee role=employee 
+2026-10-07 13:02:55,124 | assistant_query | user=employee role=employee question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 91,667 (المنجزة 30,459)\n- معدل الإنجاز (آخر 4 أسابيع): 37.2% | المستهدف: 60%'
+2026-10-07 13:03:27,732 | assistant_query | user=employee role=employee question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 91,667 (المنجزة 30,459)\n- معدل الإنجاز (آخر 4 أسابيع): 37.2% | المستهدف: 60%'
+2026-10-07 13:04:47,657 | logout | user=employee role=employee 
+2026-10-07 13:05:00,083 | login_ok | user=admin role=admin 
+2026-10-07 13:11:03,214 | login_failed | user=- role=guest attempted_user='Admin'
+2026-10-07 13:11:21,751 | login_ok | user=admin role=admin 
+2026-10-07 13:11:58,250 | vision_analysis | user=admin role=admin size=162721
+2026-10-07 13:24:13,515 | vision_analysis | user=admin role=admin size=111057
+2026-10-07 13:27:30,141 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 61,089 (المنجزة 20,294)\n- معدل الإنجاز (آخر 4 أسابيع): 37.3% | المستهدف: 60%'
+2026-10-07 14:09:57,210 | login_ok | user=admin role=admin 
+2026-10-07 14:10:06,870 | vision_analysis | user=admin role=admin size=111057
+2026-10-07 14:27:30,322 | login_ok | user=admin role=admin 
+2026-10-07 14:27:37,688 | vision_analysis | user=admin role=admin size=111057
+2026-10-07 14:29:39,720 | vision_analysis | user=admin role=admin size=2260735
+2026-10-08 16:14:16,206 | login_ok | user=admin role=admin 
+2026-10-08 16:17:06,399 | login_ok | user=admin role=admin 
+2026-10-08 16:17:34,565 | vision_analysis | user=admin role=admin size=2338070
+2026-10-08 16:18:59,523 | files_analyzed | user=admin role=admin count=1
+2026-10-08 16:23:50,683 | logout | user=admin role=admin 
+2026-10-08 16:24:26,149 | login_failed | user=- role=guest attempted_user='emplyoee'
+2026-10-08 16:27:27,906 | login_ok | user=employee role=employee 
+2026-10-08 16:31:46,462 | vision_analysis | user=employee role=employee size=111057
+2026-10-10 11:36:04,052 | login_ok | user=admin role=admin 
+2026-10-10 11:36:10,304 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 102,511 (المنجزة 34,187)\n- معدل الإنجاز (آخر 4 أسابيع): 36.8% | المستهدف: 60'
+2026-10-10 11:48:21,038 | files_analyzed | user=admin role=admin count=1
+2026-10-10 11:51:46,677 | vision_analysis | user=admin role=admin size=372482
+2026-10-10 11:56:51,594 | login_ok | user=admin role=admin 
+2026-10-10 15:29:32,112 | assistant_query | user=- role=guest question='السلام عليكم اخبرني ما هي وظيفتك وما هي الاضافة المميزة التي تقوم بها'
+2026-10-10 15:30:47,458 | login_ok | user=admin role=admin 
+2026-10-10 15:31:24,681 | assistant_query | user=admin role=admin question='طيب هل يمكنك تحليل صور و كمان الملفات بحيث ارسلت لك ملف اريدك تحليله لي اريدك تعرف انه عن بلدية و ما محتويات الملف سواء كان ببلدية او غير ذلك و اريدك تفسر لي تقدر او ما تقدر'
+2026-10-10 15:32:59,317 | assistant_query | user=admin role=admin question='أريدك أن تكتب الخطوة بشأن المعاملات المتأثرة وما هي الجهات الأكثر الأقل إنجاز للعمل وما هي الأحيان الأكثر تأثر وضرر'
+2026-10-10 15:43:07,740 | login_ok | user=admin role=admin 
+2026-10-10 15:44:23,803 | vision_analysis | user=admin role=admin size=1944453
+2026-10-10 17:37:46,258 | login_ok | user=admin role=admin 
+2026-10-10 17:39:13,118 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 46 | المعاملات: منجزة 34,187، تحت التنفيذ 34,068، غير منجزة 34,256\n- أضعف فريق: محافظة جدة — فريق 3 (0.0%)\n-'
+2026-10-10 17:44:06,234 | assistant_query | user=admin role=admin question='الوضع التحديد لي هو الفرق الأقل لإنجاز الغاملات ومحلل صفحات الفرق المدنية ووضعيني اقتراحات لتشريع إنجاز الغاملات غير المنجزة'
+2026-10-10 17:49:10,392 | assistant_query | user=admin role=admin question='أبواب تصنع لي، تكتب لي خطاب رسمي وشأن العملات الأكبر من عدم الإنجاز من الجهات المتوسطة وهي بحق كل إسم الجهات المتوسطة ومعها التنبأ بالإصلاح المستحق للتجارة'
+2026-10-10 17:51:37,402 | assistant_query | user=admin role=admin question='اكتبلي خطاب بشان المعاملات المتاخره وماهي  الفرق الاقل انجاز للمعاملات ويحتاجلهم المساىله '
+2026-10-10 18:34:36,874 | login_ok | user=admin role=admin 
+2026-10-10 18:54:23,907 | assistant_query | user=admin role=admin question='من هنا نطور على المنصة'
+2026-10-10 18:55:47,360 | assistant_query | user=admin role=admin question='حسناً من أنت ساسموك وما هي رضي الله'
+2026-10-10 19:22:34,667 | assistant_query | user=- role=guest question='أعطني إسمك ومهما أطور المنصة ومعلوماتي إذا وجدت'
+2026-10-10 19:23:08,764 | login_ok | user=admin role=admin 
+2026-10-10 19:23:26,385 | assistant_query | user=admin role=admin question='من هو اللي طور المنصة وحطيناه معلومات كده بزداد'
+2026-10-10 21:12:55,610 | login_ok | user=admin role=admin 
+2026-10-10 21:13:56,317 | login_ok | user=admin role=admin 
+2026-10-10 21:14:09,242 | vision_analysis | user=admin role=admin size=1944453
+2026-10-11 11:10:22,245 | login_ok | user=admin role=admin 
+2026-10-11 11:18:45,632 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 46 | المعاملات: منجزة 34,187، تحت التنفيذ 34,068، غير منجزة 34,256\n- أضعف فريق: محافظة جدة — فريق 3 (0.0%)\n-'
+2026-10-11 11:51:57,420 | login_ok | user=admin role=admin 
+2026-10-11 11:56:27,573 | vision_analysis | user=admin role=admin size=1868895
+2026-10-11 12:33:02,126 | login_ok | user=admin role=admin 
+2026-10-11 12:34:18,202 | vision_analysis | user=admin role=admin size=2230293
+2026-10-11 12:34:39,674 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 46 | المعاملات: منجزة 34,187، تحت التنفيذ 34,068، غير منجزة 34,256\n- أضعف فريق: محافظة جدة — فريق 3 (0.0%)\n-'
+2026-10-11 12:37:49,117 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 102,511 (المنجزة 34,187)\n- معدل الإنجاز (آخر 4 أسابيع): 37.9% | المستهدف: 60'
+2026-10-11 12:38:18,010 | assistant_query | user=admin role=admin question="I'm out."
+2026-10-11 12:39:18,282 | assistant_query | user=admin role=admin question='هذا كان تحليل المعاملات ومن هم الجهات الأكثر والأقل لعدم إنجاز المعاملات والأسباب تأخيرها ومن هي الجهات التي توجب عليها مسائلة وتنبأ بالتحليل للقادم لإنجاز المعاملات وما هي الحياة الأكثر تعرض للخطر بس'
+2026-10-11 13:23:41,574 | assistant_query | user=- role=guest question='انا ساعر ما هي المعلومات الممكن تطرحلي'
+2026-10-11 13:25:30,595 | assistant_query | user=- role=guest question='حللي رقم معاملة TRX 90321 وما هي الأسباب لعدم إنجاز المعاملة وتاريخ المتوقعة لإنجاز المعاملة ومن هي الجهة المستلمة للمعاملة'
+2026-10-11 13:26:42,405 | login_ok | user=employee role=employee 
+2026-10-11 13:27:44,572 | assistant_query | user=employee role=employee question='حليل محمل'
+2026-10-11 13:29:02,545 | assistant_query | user=employee role=employee question='حلل المعاملة رقم 90 216 رجل وسباق عندهم إنجازها وهو التاريخ المتوقع لإنجاز المعاملة ومن هي الجهة المستنمة للمعاملة'
+2026-10-11 13:31:10,174 | assistant_query | user=employee role=employee question='طب أبو أخطاب أوجه الفريق المسلم للمعاملة وتكون من الصرع لإنجاز المعاملة ورفع صور للمجريات'
+2026-10-11 13:35:26,863 | assistant_query | user=employee role=employee question='طلب غرفة تنبيه عاجل للمعاملة رقم تي ار اكس تسعين واخماشر الف رقمية تسعين واخماشر الف لإنجاز المعاملة خلال خماشر ساعة من الآن'
+2026-10-11 13:36:24,539 | logout | user=employee role=employee 
+2026-10-11 19:45:45,340 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 61,089 (المنجزة 20,294)\n- معدل الإنجاز (آخر 4 أسابيع): 38.0% | المستهدف: 60%'
+2026-10-11 19:47:04,716 | login_ok | user=admin role=admin 
+2026-10-11 19:47:12,420 | vision_analysis | user=admin role=admin size=2230293
+2026-10-11 19:47:43,767 | assistant_query | user=admin role=admin question='[الصفحة: إدخال البيانات والتحليل الذكي]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- صفحة إدخال المعاملات: بلاغ بصورة (تحليل بصري) وإدخال يدوي، ومحلل ملفات (CSV / Excel / PDF / TXT) يفرز الم'
+2026-10-11 19:50:22,491 | assistant_query | user=admin role=admin question='اشتركوا في القناة'
+2026-10-11 22:04:05,120 | login_failed | user=- role=guest attempted_user='Employee'
+2026-10-11 22:04:26,643 | login_ok | user=employee role=employee 
+2026-10-11 23:49:59,176 | login_failed | user=- role=guest attempted_user='Admin'
+2026-10-11 23:50:10,339 | login_failed | user=- role=guest attempted_user='Admin'
+2026-10-11 23:50:22,916 | login_failed | user=- role=guest attempted_user='Employee'
+2026-10-11 23:50:26,566 | login_failed | user=- role=guest attempted_user='Employee'
+2026-10-11 23:51:12,077 | login_failed | user=- role=guest attempted_user='Employee'
+2026-10-11 23:52:17,175 | login_ok | user=employee role=employee 
+2026-10-11 23:55:47,765 | login_ok | user=employee role=employee 
+2026-10-11 23:57:05,299 | assistant_query | user=employee role=employee question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 91,667 (المنجزة 30,459)\n- معدل الإنجاز (آخر 4 أسابيع): 37.8% | المستهدف: 60%'
+2026-10-11 23:57:09,231 | assistant_query | user=employee role=employee question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 91,667 (المنجزة 30,459)\n- معدل الإنجاز (آخر 4 أسابيع): 37.8% | المستهدف: 60%'
+2026-10-11 23:57:57,161 | assistant_query | user=employee role=employee question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 42 | المعاملات: منجزة 30,459، تحت التنفيذ 30,546، غير منجزة 30,662\n- أضعف فريق: محافظة جدة — فريق 3 (0.0%)\n-'
+2026-10-11 23:58:55,847 | logout | user=employee role=employee 
+2026-10-11 23:59:06,936 | login_ok | user=admin role=admin 
+2026-10-12 00:57:24,286 | login_ok | user=admin role=admin 
+2026-10-12 00:58:21,933 | assistant_query | user=admin role=admin question='اشتركوا في القناة'
+2026-10-12 01:00:53,537 | vision_analysis | user=admin role=admin size=1944453
+2026-10-12 01:03:58,969 | assistant_query | user=admin role=admin question='المعاملات المتأخرة وما هي الأحيان الأكثر تضرر للمعاملات المتأخرة ومن هي الجهات التي يجب مساعدتها لعدم إنجاز المعاملات وذكر الأسباب وجهاز الإخطاب لرفع المعاملات في الجهة المتوسطة'
+2026-10-12 11:15:42,319 | login_ok | user=admin role=admin 
+2026-10-12 11:16:09,810 | vision_analysis | user=admin role=admin size=2646951
+2026-10-12 11:16:32,594 | assistant_query | user=admin role=admin question='[الصفحة: إدخال البيانات والتحليل الذكي]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- صفحة إدخال المعاملات: بلاغ بصورة (تحليل بصري) وإدخال يدوي، ومحلل ملفات (CSV / Excel / PDF / TXT) يفرز الم'
+2026-10-12 11:18:35,571 | assistant_query | user=admin role=admin question="[الصفحة: غرفة العمليات والإنذارات]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- المعاملات المطابقة للفلاتر: 5,000\n- أكثر الأحياء ازدحاماً: {'حي الحمدانية': 559, 'حي النسيم': 512, 'حي الصفا':"
+2026-10-12 13:11:43,914 | login_ok | user=admin role=admin 
+2026-10-12 17:45:45,791 | login_ok | user=admin role=admin 
+2026-10-12 18:32:21,557 | login_ok | user=admin role=admin 
+2026-10-12 18:57:48,519 | login_failed | user=- role=guest attempted_user='Admin'
+2026-10-12 18:58:00,376 | login_failed | user=- role=guest attempted_user='Admin'
+2026-10-12 18:58:07,392 | login_failed | user=- role=guest attempted_user='Admin'
+2026-10-13 09:57:05,717 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-13 09:57:46,218 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-13 09:58:16,346 | login_ok | user=admin role=admin 
+2026-10-13 09:58:21,860 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-13 09:58:35,996 | assistant_query | user=admin role=admin question='اشتركوا في القناة'
+2026-10-13 09:59:31,321 | assistant_query | user=admin role=admin question='حللني المعاملات المتأخرة، ما هي الحياة الأخضر وتضررهم للمعاملات، ومن هم الجهات الأكثر لعدم إنجاز المعاملات، وكتب لي خطاب بشأن المعاملات المتأخرة وجعلناها رسمية.'
+2026-10-13 10:00:37,433 | vision_analysis | user=admin role=admin size=111057
+2026-10-13 10:01:18,359 | extract_transactions | user=admin role=admin chars=3158
+2026-10-13 10:01:20,069 | files_analyzed | user=admin role=admin count=1
+2026-10-13 10:14:40,394 | vision_analysis | user=admin role=admin size=431473
+2026-10-13 10:15:22,071 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-13 10:28:02,827 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-13 10:29:12,915 | assistant_query | user=- role=guest question='مين أطور المنصة؟ مو حدثني عني'
+2026-10-13 10:30:04,002 | assistant_query | user=- role=guest question='مين هو مهم العابذ السهلي؟ ووش سوه؟'
+2026-10-13 10:52:34,039 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-13 11:03:20,685 | assistant_query | user=- role=guest question='حدثني عن طور المنصة من هو محمد السيري.'
+2026-10-13 11:06:07,246 | assistant_query | user=- role=guest question='ماذا تسمع؟ صفحات تعمل جزيئة أغرار، ما هو الهاتف وما هو الصلاة.'
+2026-10-13 11:10:42,472 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-13 11:12:41,636 | assistant_query | user=- role=guest question="[الصفحة: غرفة العمليات والإنذارات]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- المعاملات المطابقة للفلاتر: 150,176\n- أكثر الأحياء ازدحاماً: {'حي الصفا': 15236, 'حي النزهة': 15150, 'حي النسي"
+2026-10-13 11:36:49,160 | login_ok | user=admin role=admin 
+2026-10-13 11:49:53,706 | assistant_query | user=admin role=admin question='هل يمكنني أسألك سري كامل ويجد فيه معاملات تقدر تحلل وتستنتج؟ المعاملات تستربح لنا من أنهي إشي من العاملة، وإشي اللي مهم عاملة، وإشي اللي مفيدة، وإشي اللي ممفيدة؟'
+2026-10-13 11:50:57,300 | assistant_query | user=admin role=admin question='حدثني عن طور المنصة، وهل هو ممتاز، ونوعا ما جيد، وبيئة عمل المنصة وتأسيسها، هل هو كان مكلف، أو مكلف تهنيا متعب، أم منها كانت سهلة؟'
+2026-10-13 11:54:03,894 | assistant_query | user=admin role=admin question='[الصفحة: الحوكمة والامتثال]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n• البيانات السرية تُفلتر في الخادم قبل وصولها للواجهة أو للمودل.\n• كل دخول وخروج وسؤال للمساعد وإنشاء معاملة وتصدير وتن'
+2026-10-13 11:54:33,479 | assistant_query | user=admin role=admin question='[الصفحة: إدخال البيانات والتحليل الذكي]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- صفحة إدخال المعاملات: بلاغ بصورة (تحليل بصري) وإدخال يدوي، ومحلل ملفات (CSV / Excel / PDF / TXT) يفرز الم'
+2026-10-13 11:56:14,257 | assistant_query | user=admin role=admin question='[الصفحة: إدخال البيانات والتحليل الذكي]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- صفحة إدخال المعاملات: بلاغ بصورة (تحليل بصري) وإدخال يدوي، ومحلل ملفات (CSV / Excel / PDF / TXT) يفرز الم'
+2026-10-13 12:09:41,873 | logout | user=admin role=admin 
+2026-10-13 12:10:25,815 | login_ok | user=admin role=admin 
+2026-10-13 12:11:47,343 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-13 12:13:14,678 | vision_analysis | user=admin role=admin size=1944453
+2026-10-13 12:14:20,683 | extract_transactions | user=admin role=admin chars=3158
+2026-10-13 12:14:23,540 | files_analyzed | user=admin role=admin count=1
+2026-10-13 12:15:44,511 | assistant_query | user=admin role=admin question='[الصفحة: الحوكمة والامتثال]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n• البيانات السرية تُفلتر في الخادم قبل وصولها للواجهة أو للمودل.\n• كل دخول وخروج وسؤال للمساعد وإنشاء معاملة وتصدير وتن'
+2026-10-13 12:16:31,817 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-13 12:16:36,228 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-13 12:19:21,786 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-13 12:24:37,911 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 41,581 (المنجزة 25,100)\n- معدل الإنجاز (آخر 4 أسابيع): 59.6% | المستهدف: 60%'
+2026-10-13 12:25:02,063 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 41,581 (المنجزة 25,100)\n- معدل الإنجاز (آخر 4 أسابيع): 59.6% | المستهدف: 60%'
+2026-10-13 12:28:22,141 | logout | user=admin role=admin 
+2026-10-13 12:28:44,058 | assistant_query | user=- role=guest question='حللي وضع المعاملات ومن هم الجهات الأكثر والأقل لعدم إنجاز المهام وما هي الأحياء المتضررة لعدم إنجاز المعاملات.'
+2026-10-13 12:31:13,557 | login_ok | user=employee role=employee 
+2026-10-13 12:33:27,983 | assistant_query | user=employee role=employee question='حلّل هذه المعاملة: ما وضعها؟ هل هي متأخرة ولماذا قد تتأخر؟ ما الإجراء الأنسب والفريق/القسم المناسب والمدة المتوقعة؟\n- رقم المعاملة: TRX-JED-0847480\n- موضوع المعاملة: إزالة صبات خرسانية وعوائق مشاة أما'
+2026-10-13 12:58:47,534 | assistant_query | user=- role=guest question='حلّل هذه المعاملة: ما وضعها؟ هل هي متأخرة ولماذا قد تتأخر؟ ما الإجراء الأنسب والفريق/القسم المناسب والمدة المتوقعة؟\n- رقم المعاملة: TRX-JED-0753904\n- موضوع المعاملة: إزالة صبات خرسانية وعوائق مشاة أما'
+2026-10-13 13:01:18,993 | login_ok | user=admin role=admin 
+2026-10-13 13:01:47,452 | export_email | user=admin role=admin page='dashboard' ok=False to_domain='gmail.com'
+2026-10-13 13:02:05,183 | export_email | user=admin role=admin page='dashboard' ok=False to_domain='gmail.com'
+2026-10-13 13:04:29,607 | field_assignment | user=admin role=admin trx='TRX-JED-0757527' team=4
+2026-10-13 13:05:39,944 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-13 13:06:03,746 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-13 13:06:16,950 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-13 13:21:38,833 | logout | user=admin role=admin 
+2026-10-13 13:33:49,049 | login_ok | user=admin role=admin 
+2026-10-13 13:33:53,661 | logout | user=admin role=admin 
+2026-10-13 13:34:21,824 | assistant_query | user=- role=guest question="[الصفحة: غرفة العمليات والإنذارات]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- المعاملات المطابقة للفلاتر: 150,176\n- أكثر الأحياء ازدحاماً: {'حي الصفا': 15236, 'حي النزهة': 15150, 'حي النسي"
+2026-10-13 13:36:29,025 | login_ok | user=admin role=admin 
+2026-10-13 13:37:21,123 | vision_analysis | user=admin role=admin size=1944453
+2026-10-13 13:39:02,916 | vision_analysis | user=admin role=admin size=331448
+2026-10-13 13:39:38,654 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-13 13:41:37,748 | assistant_query | user=admin role=admin question='حلّل هذه المعاملة: ما وضعها؟ هل هي متأخرة ولماذا قد تتأخر؟ ما الإجراء الأنسب والفريق/القسم المناسب والمدة المتوقعة؟\n- رقم المعاملة: TRX-JED-0764994\n- موضوع المعاملة: طلب تصريح إشغال رصيف وفعالية موسمي'
+2026-10-13 13:42:40,491 | assistant_query | user=admin role=admin question='حلّل هذه المعاملة: ما وضعها؟ هل هي متأخرة ولماذا قد تتأخر؟ ما الإجراء الأنسب والفريق/القسم المناسب والمدة المتوقعة؟\n- رقم المعاملة: TRX-JED-0771447\n- موضوع المعاملة: بلاغ طارئ عن انسداد مصبات السيول و'
+2026-10-13 15:19:27,582 | login_ok | user=admin role=admin 
+2026-10-13 15:20:03,957 | assistant_query | user=admin role=admin question='أحلل المعاملات المتأخرة، وما هي الأحيان الأكثر تضررون، ومن هم الجهات اللي هتاج المسائلة، وقبل كل شيء، أول حدثني عن المطور، ووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووووو'
+2026-10-13 15:21:14,583 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-13 15:21:47,742 | vision_analysis | user=admin role=admin size=1944453
+2026-10-13 15:24:49,467 | assistant_query | user=admin role=admin question='يا حبيبي، حلل، مو حللي، معلش تخبطتك، حدثنا عن مطور المنصة وما هي الخطوات الناجحة اللي سواها وإنصحوا بالتحصينات، ومين هو المحمد السهلي؟ مين؟'
+2026-10-13 15:29:48,428 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-15 17:45:58,957 | assistant_query | user=- role=guest question='أمين أنشاء المنصة، وكم تكلف الفريق الذي أنشاء المنصة، وهل هي متعبة أو مسهلة، وعطيني انطباع المنصة، وش وظيفتها، وما فائدتنا في الرؤية.'
+2026-10-15 17:47:45,138 | assistant_query | user=- role=guest question='أمين أنشاء المنصة، وكم تكلف الفريق الذي أنشاء المنصة، وهل هي متعبة أو مسهلة، وعطيني انطباع المنصة، وش وظيفتها، وما فائدتنا في الرؤية.'
+2026-10-15 17:48:09,014 | login_ok | user=admin role=admin 
+2026-10-15 17:48:55,879 | vision_analysis | user=admin role=admin size=2230293
+2026-10-15 17:50:05,800 | assistant_query | user=admin role=admin question='تحيييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييييي'
+2026-10-15 17:51:59,221 | assistant_query | user=admin role=admin question='ما هي وظيفة المنصة؟ وإيش فائدتها للمجتمع ورؤية 2030؟ ومين اللي طور المنصة وإنشأها؟ وهل هم فريق أم شخص أو حل؟'
+2026-10-15 17:57:19,296 | login_failed | user=- role=guest attempted_user='admain123456'
+2026-10-15 17:57:28,678 | login_failed | user=- role=guest attempted_user='admain123456'
+2026-10-15 17:57:44,907 | login_failed | user=- role=guest attempted_user='admin123456'
+2026-10-15 17:57:49,881 | login_failed | user=- role=guest attempted_user='admin123456'
+2026-10-15 17:57:54,373 | login_ok | user=admin role=admin 
+2026-10-15 18:42:24,975 | assistant_query | user=admin role=admin question='حلل لي معاملات متأخرة، ووش الحياة الأكثر غرّب إلا معاملات متأخرة، وتنبأ لي بالقادم سواء حيكون العمل إيجابي أو سلبي، وعمل لي تحصيل حاسب، وخطاب كمان بشأن المعاملات المتأخرة، ومراجعتها.'
+2026-10-15 19:12:33,719 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-15 19:12:55,434 | assistant_query | user=- role=guest question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 150,176 (المنجزة 90,403)\n- معدل الإنجاز (آخر 4 أسابيع): 60.1% | المستهدف: 60'
+2026-10-15 19:13:29,377 | login_ok | user=admin role=admin 
+2026-10-15 19:16:09,005 | vision_analysis | user=admin role=admin size=2230293
+2026-10-15 19:16:49,735 | assistant_query | user=admin role=admin question='دقيقة يا أخر سيد، حلل لي المعاملات المتأخرة، حلل لي المعاملات المتأخرة وما هي الحياة الأكثر ضررة، ومن هي الاجهات التي يتوجب عليها المساعدة؟'
+2026-10-15 19:17:32,551 | assistant_query | user=admin role=admin question='مين اللي يطور المنصة؟'
+2026-10-17 14:35:17,440 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-17 14:35:17,445 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-17 14:35:17,987 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-17 14:35:17,992 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-17 14:35:17,997 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-17 14:38:05,837 | assistant_query | user=- role=guest question='ماهي داعف المنصة وتقدر تفيدني بس بماني زاهر يعني'
+2026-10-17 14:41:04,559 | login_ok | user=employee role=employee 
+2026-10-17 14:41:05,091 | admin_content_denied | user=employee role=employee page='لوحة التحليلات والتنفيذ'
+2026-10-17 14:41:05,119 | admin_content_denied | user=employee role=employee page='غرفة العمليات الحية وخريطة GIS'
+2026-10-17 14:41:05,799 | admin_content_denied | user=employee role=employee page='خريطة الفرق وأداؤها والتكليف'
+2026-10-17 14:41:05,820 | admin_content_denied | user=employee role=employee page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-17 14:41:05,824 | admin_content_denied | user=employee role=employee page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-17 14:50:48,446 | logout | user=employee role=employee 
+2026-10-17 14:51:10,987 | login_ok | user=admin role=admin 
+2026-10-17 14:53:42,106 | logout | user=admin role=admin 
+2026-10-17 14:58:18,878 | login_ok | user=admin role=admin 
+2026-10-17 17:07:03,092 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-17 17:07:03,103 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-17 17:07:03,465 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-17 17:07:03,467 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-17 17:07:03,468 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-17 17:07:56,198 | login_ok | user=admin role=admin 
+2026-10-17 17:10:19,169 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.7% | المستهدف: 6'
+2026-10-17 17:25:39,541 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-17 17:25:39,543 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-17 17:25:39,894 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-17 17:25:39,896 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-17 17:25:39,898 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-17 17:26:48,337 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-17 17:26:48,342 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-17 17:26:48,810 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-17 17:26:48,814 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-17 17:26:48,817 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-17 17:27:27,521 | assistant_query | user=- role=guest question='أبغى استعلم عن بيئة المنصة وما هي إيجابياتها وما هي سلبياتها وإيش تنصح للتطوير للمنصة'
+2026-10-17 17:37:08,281 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-17 17:37:08,283 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-17 17:37:08,737 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-17 17:37:08,741 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-17 17:37:08,743 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-17 17:37:36,094 | assistant_query | user=- role=guest question='ما هي وضعات منصة محللة بيئتها وأهميتها وسلبيتها؟'
+2026-10-17 17:40:20,372 | login_ok | user=admin role=admin 
+2026-10-18 14:51:14,665 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-18 14:51:14,672 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-18 14:51:15,311 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-18 14:51:15,315 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-18 14:51:15,319 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-19 13:21:54,157 | login_ok | user=admin role=admin 
+2026-10-19 13:22:53,559 | projects_suggested | user=admin role=admin n=4
+2026-10-19 13:26:30,595 | project_ai_estimate | user=admin role=admin project='ca1d09ef'
+2026-10-19 13:27:16,499 | project_ai_estimate | user=admin role=admin project='ca1d09ef'
+2026-10-19 14:08:07,513 | login_ok | user=admin role=admin 
+2026-10-19 14:10:18,733 | logout | user=admin role=admin 
+2026-10-19 14:11:14,882 | login_ok | user=employee role=employee 
+2026-10-20 10:32:32,521 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-20 10:32:32,528 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-20 10:32:33,058 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-20 10:32:33,063 | admin_content_denied | user=- role=guest page='التحليل التنبؤي'
+2026-10-20 10:32:33,065 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-20 10:32:33,067 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-20 10:32:33,069 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-20 10:32:33,071 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-20 10:38:20,804 | login_ok | user=admin role=admin 
+2026-10-20 10:40:35,775 | assistant_query | user=admin role=admin question='محادثة بلهجة سعودية مع مساعدة أمانة محافظة جدة، معاملة، بلاغ، خطاب رسمي، حي الصفا، حي البساتين، حي الروضة، النزهة، أبحر، السليمانية، عاجل، سري.'
+2026-10-20 10:41:32,604 | assistant_query | user=admin role=admin question='إيش اسمه؟ ما هي جودة هالمنصة؟ وإيش الانطباع لها؟ وهل هي مفيدة للرؤية؟ وما هي مفيدة؟ إيش راح تغسيل المنصة؟ ومدى عملها؟ ومدى العمل على المنصة؟ وهل شغلها مطقن؟ أو يحتاج لها تغييرات؟'
+2026-10-20 10:43:26,038 | assistant_query | user=admin role=admin question='أعطيني نصايح بكوني محمد عبد السيري بشان المنصة بشكل عام.'
+2026-10-20 21:56:51,612 | login_ok | user=admin role=admin 
+2026-10-21 00:00:53,144 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-21 00:00:53,154 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-21 00:00:53,891 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-21 00:00:53,899 | admin_content_denied | user=- role=guest page='التحليل التنبؤي'
+2026-10-21 00:00:53,903 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-21 00:00:53,906 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-21 00:00:53,908 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-21 00:00:53,911 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-21 00:01:19,160 | assistant_query | user=- role=guest question='كيف تحمون بياناتي؟'
+2026-10-21 00:01:24,812 | assistant_query | user=- role=guest question='كيف أقدّم رأيي أو شكوى؟'
+2026-10-21 00:01:46,048 | assistant_query | user=- role=guest question='كيف تحمون بياناتي؟'
+2026-10-21 00:04:44,962 | login_ok | user=admin role=admin 
+2026-10-21 00:08:01,839 | project_cost_estimate | user=admin role=admin project='c72b7ddb'
+2026-10-21 00:16:13,944 | assistant_query | user=admin role=admin question='محادثة بلهجة سعودية مع مساعدة أمانة محادثة بلهجة سعودية مع مساعدة أمانة محافظة جدة.'
+2026-10-21 00:54:45,887 | logout | user=admin role=admin 
+2026-10-21 00:54:45,890 | session_idle_timeout | user=admin role=admin 
+2026-10-21 13:38:20,163 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-21 13:38:20,174 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-21 13:38:21,008 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-21 13:38:21,012 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-21 13:38:21,015 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-21 13:38:21,016 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-21 13:38:21,020 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-21 13:41:07,151 | login_ok | user=admin role=admin 
+2026-10-21 13:44:17,525 | project_cost_estimate | user=admin role=admin project='de849d73'
+2026-10-21 13:45:02,888 | project_ai_estimate | user=admin role=admin project='de849d73'
+2026-10-21 13:51:53,634 | project_added | user=admin role=admin name='الطروق و الانارة'
+2026-10-21 13:53:44,493 | project_cost_estimate | user=admin role=admin project='4e2eb692'
+2026-10-21 14:16:27,113 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.9% | المستهدف: 6'
+2026-10-21 18:46:27,918 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-21 18:46:27,931 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-21 18:46:28,831 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-21 18:46:28,846 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-21 18:46:28,848 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-21 18:46:28,850 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-21 18:46:28,853 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-21 18:48:27,885 | login_ok | user=admin role=admin 
+2026-10-21 18:52:04,407 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-21 18:52:04,419 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-21 18:52:05,597 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-21 18:52:05,615 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-21 18:52:05,636 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-21 18:52:05,654 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-21 18:52:05,675 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-21 18:56:11,143 | assistant_query | user=- role=guest question='كيف أتابع معاملتي؟'
+2026-10-21 18:56:55,687 | assistant_query | user=- role=guest question='كيف أقدّم رأيي أو شكوى؟'
+2026-10-21 18:58:47,396 | login_ok | user=admin role=admin 
+2026-10-21 19:00:46,229 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-21 19:06:34,533 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-21 19:07:57,186 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-21 19:26:50,861 | projects_suggested | user=admin role=admin n=4
+2026-10-21 19:34:23,062 | project_cost_estimate | user=admin role=admin project='5b2cf21b'
+2026-10-21 19:40:10,545 | vision_analysis | user=admin role=admin size=447193
+2026-10-21 19:40:50,581 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-21 20:32:19,217 | logout | user=admin role=admin 
+2026-10-21 20:32:19,224 | session_idle_timeout | user=admin role=admin 
+2026-10-21 20:34:57,669 | login_ok | user=admin role=admin 
+2026-10-22 01:35:27,142 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 01:35:27,147 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 01:35:27,939 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 01:35:27,967 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 01:35:27,976 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 01:35:27,981 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 01:35:27,985 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 01:37:40,595 | login_ok | user=admin role=admin 
+2026-10-22 01:51:13,469 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 01:51:13,477 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 01:51:14,367 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 01:51:14,383 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 01:51:14,392 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 01:51:14,397 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 01:51:14,406 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 11:00:42,122 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 11:00:42,131 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 11:00:42,710 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 11:00:42,718 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 11:00:42,719 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 11:00:42,721 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 11:00:42,723 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 11:03:49,527 | assistant_query | user=- role=guest question='مين هو نبراسو سعيد؟ وش وضيفة جو؟'
+2026-10-22 11:09:30,626 | assistant_query | user=- role=guest question='ما مظيفة نبراسو سعيد؟ ومين اللي سواهم؟ وش فيتشوا؟'
+2026-10-22 11:27:09,179 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 11:27:09,184 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 11:27:09,835 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 11:27:09,843 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 11:27:09,846 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 11:27:09,850 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 11:27:09,854 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 11:27:48,082 | assistant_query | user=- role=guest question='قل لي مين سعيد ومين بسمه المساعد الثاني وحلل لي بيئة منصة، إيش هدافها وهل هي جيدة أو غير مؤهلة لأنها تكون رسمية'
+2026-10-22 11:38:36,727 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 11:38:36,731 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 11:38:37,325 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 11:38:37,331 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 11:38:37,334 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 11:38:37,339 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 11:38:37,341 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 11:39:06,154 | feedback_submitted | user=- role=guest ref='FB-2026-0001' stars=1
+2026-10-22 11:39:26,611 | feedback_submitted | user=- role=guest ref='FB-2026-0002' stars=1
+2026-10-22 11:39:50,922 | assistant_query | user=- role=guest question='كيف أقدّم رأيي أو شكوى؟'
+2026-10-22 11:42:11,920 | login_ok | user=admin role=admin 
+2026-10-22 14:47:15,737 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 14:47:15,749 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 14:47:16,243 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 14:47:16,250 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 14:47:16,252 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 14:47:16,255 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 14:47:16,257 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 15:02:20,282 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 15:02:20,285 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 15:02:20,927 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 15:02:20,933 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 15:02:20,936 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 15:02:20,939 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 15:02:20,941 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 15:04:04,948 | login_ok | user=admin role=admin 
+2026-10-22 15:05:05,018 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.9% | المستهدف: 6'
+2026-10-22 16:30:31,266 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 16:30:31,272 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 16:30:31,567 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 16:30:31,570 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 16:30:31,570 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 16:30:31,571 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 16:30:31,572 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 17:09:31,065 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 17:09:31,066 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 17:09:31,538 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 17:09:31,546 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 17:09:31,550 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 17:09:31,554 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 17:09:31,557 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 17:10:08,731 | assistant_query | user=- role=guest question='أبغى أتكلم مع نبراس السعيد. أقدر؟'
+2026-10-22 17:16:38,938 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-22 17:16:38,942 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-22 17:16:39,605 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-22 17:16:39,613 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-22 17:16:39,617 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-22 17:16:39,622 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-22 17:16:39,625 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-22 17:17:01,395 | login_ok | user=admin role=admin 
+2026-10-22 17:17:34,400 | assistant_query | user=admin role=admin question='مين نبراس ومين سعيّد'
+2026-10-22 17:18:59,310 | assistant_query | user=admin role=admin question='حدثني عن تقنية المنصة وكيف تطويرها وهل هي ناجحة وهل هي تفيد السعودية وممكن أن تصبح رسمية للأمانة وحدثني عن المطور.'
+2026-10-22 17:20:11,990 | assistant_query | user=admin role=admin question='طيب مين اللي طور المنصة وهي تشغله ممتاز ويفهم ولا ما يفهم؟'
+2026-10-22 17:20:40,001 | vision_analysis | user=admin role=admin size=282373
+2026-10-22 17:21:11,022 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 150,284، تحت التنفيذ 37,136، غير منجزة 62,580\n- أضعف فريق: النظافة والبيئة — فريق 1 (5'
+2026-10-22 17:22:44,331 | assistant_query | user=admin role=admin question='كيف أصدر التقرير التنفيذي الشهري؟'
+2026-10-23 23:34:07,182 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-23 23:34:07,185 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-23 23:34:07,640 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-23 23:34:07,644 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-23 23:34:07,645 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-23 23:34:07,646 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-23 23:34:07,648 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-23 23:35:58,743 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-23 23:35:58,748 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-23 23:35:59,483 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-23 23:35:59,491 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-23 23:35:59,495 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-23 23:35:59,499 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-23 23:35:59,503 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-23 23:38:49,208 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-23 23:38:49,212 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-23 23:38:50,063 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-23 23:38:50,076 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-23 23:38:50,081 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-23 23:38:50,086 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-23 23:38:50,090 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-23 23:41:35,256 | assistant_query | user=- role=guest question='حديثنا عن المنصة وش الإضافات المهمة اللي فيها، وديني بيأتها بشكل كامل يعني اشرح ليها'
+2026-10-23 23:48:11,455 | login_failed | user=- role=guest attempted_user='ADMIN'
+2026-10-23 23:48:23,988 | login_ok | user=admin role=admin 
+2026-10-23 23:53:12,060 | vision_analysis | user=admin role=admin size=282373
+2026-10-23 23:55:07,116 | assistant_query | user=admin role=admin question='[الصفحة: إدخال البيانات والتحليل الذكي]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- صفحة إدخال المعاملات: بلاغ بصورة (تحليل بصري) وإدخال يدوي، ومحلل ملفات (CSV / Excel / PDF / TXT) يفرز الم'
+2026-10-23 23:56:44,059 | export_pdf | user=admin role=admin page='intake' ref='BIN-20261023-A299D6'
+2026-10-24 00:01:06,650 | vision_analysis | user=admin role=admin size=381869
+2026-10-24 00:04:18,899 | vision_analysis | user=admin role=admin size=111057
+2026-10-24 00:05:34,421 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 4 | المعاملات: منجزة 1,021، تحت التنفيذ 248، غير منجزة 441\n- أضعف فريق: الأراضي والأملاك — فريق 1 (57.4%)\n- '
+2026-10-24 00:08:59,908 | logout | user=admin role=admin 
+2026-10-24 00:09:46,766 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 00:10:04,246 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-24 00:10:04,251 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-24 00:10:04,949 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-24 00:10:04,956 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-24 00:10:04,959 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-24 00:10:04,963 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-24 00:10:04,965 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-24 00:13:14,875 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 00:13:56,602 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 00:14:34,652 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 00:16:10,957 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 00:17:26,738 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 00:19:21,963 | login_ok | user=admin role=admin 
+2026-10-24 00:19:23,074 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:20:17,963 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:20:18,982 | assistant_query | user=admin role=admin question='[الصفحة: لوحة التحليلات والتنفيذ]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- إجمالي المعاملات المطابقة للفلاتر: 250,000 (المنجزة 150,284)\n- معدل الإنجاز (آخر 4 أسابيع): 59.9% | المستهدف: 6'
+2026-10-24 00:20:56,407 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:22:01,652 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:22:07,533 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:22:14,336 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:22:26,125 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:24:36,255 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:25:11,124 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:25:32,991 | tracking_lookup | user=admin role=admin trx='TRX-JED-0802837'
+2026-10-24 00:25:36,897 | assistant_query | user=admin role=admin question='[الصفحة: الفرق الميدانية]\nملخص الأرقام الحالية (من البيانات المتاحة لصلاحيتي):\n- عدد الفرق: 24 | المعاملات: منجزة 14,946، تحت التنفيذ 3,756، غير منجزة 6,231\n- أضعف فريق: بلدية أبحر الفرعية — فريق 2 (5'
+2026-10-24 13:26:34,773 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-24 13:26:35,140 | admin_content_denied | user=- role=guest page='لوحة التحليلات والتنفيذ'
+2026-10-24 13:26:35,143 | admin_content_denied | user=- role=guest page='غرفة العمليات الحية وخريطة GIS'
+2026-10-24 13:26:35,600 | admin_content_denied | user=- role=guest page='خريطة الفرق وأداؤها والتكليف'
+2026-10-24 13:26:35,605 | admin_content_denied | user=- role=guest page='لوحة جودة البيانات'
+2026-10-24 13:26:35,607 | admin_content_denied | user=- role=guest page='النظام والنسخ والتدقيق'
+2026-10-24 13:26:35,609 | admin_content_denied | user=- role=guest page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-24 13:26:35,610 | admin_content_denied | user=- role=guest page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-24 13:43:29,124 | tracking_lookup | user=- role=guest trx='TRX-JED-0802837'
+2026-10-25 06:32:36,831 | login_ok | user=admin role=admin 
+2026-10-25 08:33:34,265 | assistant_query | user=- role=guest question='محادثنا عن المنصة، وإيش إنجازاتها، وإيش بيئتها، وما هو إيه، وما مدى قوتها، وما مدى ميكانيةها الحديثة، وكيف تشوفها اليوم.'
+2026-10-25 08:34:33,728 | login_ok | user=admin role=admin 
+2026-10-25 08:37:49,916 | feedback_submitted | user=admin role=admin ref='FB-2026-0003' stars=4
+2026-10-25 08:38:12,515 | assistant_query | user=admin role=admin question='كيف أقرأ لوحة التحليلات؟'
+2026-10-25 11:15:17,186 | login_ok | user=employee role=employee 
+2026-10-25 11:15:18,882 | admin_content_denied | user=employee role=employee page='لوحة التحليلات والتنفيذ'
+2026-10-25 11:15:18,934 | admin_content_denied | user=employee role=employee page='غرفة العمليات الحية وخريطة GIS'
+2026-10-25 11:15:20,088 | admin_content_denied | user=employee role=employee page='خريطة الفرق وأداؤها والتكليف'
+2026-10-25 11:15:20,139 | admin_content_denied | user=employee role=employee page='التقرير التنفيذي الشهري'
+2026-10-25 11:15:20,143 | admin_content_denied | user=employee role=employee page='لوحة جودة البيانات'
+2026-10-25 11:15:20,148 | admin_content_denied | user=employee role=employee page='النظام والنسخ والتدقيق'
+2026-10-25 11:15:20,151 | admin_content_denied | user=employee role=employee page='الحوكمة والامتثال وسجل التدقيق'
+2026-10-25 11:15:20,155 | admin_content_denied | user=employee role=employee page='تقرير الجاهزية والتدقيق الشامل'
+2026-10-25 11:15:53,691 | assistant_query | user=employee role=employee question='كيف أسجّل دخولي وإيش اللي أشوفه؟'
+2026-10-25 11:19:25,868 | assistant_query | user=employee role=employee question='كيف أقترح مشروعاً؟'
+2026-10-25 11:22:15,168 | vision_analysis | user=employee role=employee size=111057
+2026-10-25 12:06:37,942 | logout | user=employee role=employee 
+2026-10-25 12:06:37,945 | session_idle_timeout | user=employee role=employee 
+2026-10-25 12:06:54,679 | login_ok | user=admin role=admin 
+2026-10-25 12:17:25,820 | tracking_lookup | user=admin role=admin trx='TRX-JED-0933325'
+2026-10-25 12:18:56,525 | tracking_lookup | user=admin role=admin trx='TRX-JED-0933325'
+2026-10-25 12:19:00,657 | tracking_lookup | user=admin role=admin trx='TRX-JED-0933325'
+2026-10-25 12:19:00,700 | beneficiary_notified | user=admin role=admin trx='TRX-JED-0933325' ok=False
+2026-10-27 15:28:50,601 | assistant_query | user=- role=guest question='حدثني على المنصة وما وضفتها.'
+2026-10-29 10:15:55,582 | login_ok | user=admin role=admin 
